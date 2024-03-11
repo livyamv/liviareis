@@ -1,0 +1,29 @@
+COMANDOS DE NAVEGAÇÃO
+cd _______- navega por diretorio   documents
+ls- lista os arquivos e diretorios no local 
+pwd- mostra o diretorio de trabalho atual
+
+COMANDOS DE DE MANIPULAÇÇAO DE ARQUIVOS E DIRETORIO
+mkdir- cria um novo diretorio
+cp- copia os arquivos do diretórios
+mv- move arquivos e diretórios
+
+COMANDOS BUSCA E PESQUISA
+grep- procura padroes em arquivos
+locate- encontra arquivos pela base de dados
+find- procura arquicvos por nome,tipo,etc
+
+COMANDOS DE EDIÇÃO DE ARQUIVOS
+nano- editor de texto simples
+vim- editor de texto avançado
+gedit- editor de texto com interfacve grafica
+
+COMANDOS DE GERENCIAMENTO DE PROCESSOS
+ps- exibe os processos ativos
+kill- encerra um processo especifco
+top- mostra os procesos em execução
+
+COMANDOS DE REDE
+ping- testa a conectividade da rede
+ifconfig- exibe  e configura as interfaçes de rede
+netstat- mostra estatisticas da conecxão de rede
